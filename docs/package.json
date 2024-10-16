@@ -14,7 +14,7 @@
   "license": "MPL-2.0",
   "dependencies": {
     "@heroicons/react": "~1.0.6",
-    "next": "~12.2.5",
+    "next": "~14.2.7",
     "next-themes": "0.2.0",
     "nextra": "2.0.0-alpha.56",
     "nextra-theme-docs": "2.2.18",
