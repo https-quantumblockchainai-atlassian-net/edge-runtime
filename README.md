@@ -5,8 +5,13 @@
 ###### [Documentation](https://edge-runtime.vercel.app/) | [CLI](https://edge-runtime.vercel.app/cli)
 
 ## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fhttps-quantumblockchainai-atlassian-net%2Fedge-runtime.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fhttps-quantumblockchainai-atlassian-net%2Fedge-runtime?ref=badge_shield)
+
 
 **edge-runtime** © [Vercel](https://vercel.com), released under the [MPLv2](https://github.com/vercel/edge-runtime/blob/main/LICENSE.md) License.<br>
 Authored and maintained by [Vercel](https://vercel.com) with help from [contributors](https://github.com/vercel/edge-runtime/contributors).
 
 > [vercel.com](https://vercel.com) · GitHub [Vercel](https://github.com/vercel) · Twitter [@vercel](https://twitter.com/vercel)
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fhttps-quantumblockchainai-atlassian-net%2Fedge-runtime.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fhttps-quantumblockchainai-atlassian-net%2Fedge-runtime?ref=badge_large)
